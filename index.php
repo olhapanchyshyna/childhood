@@ -350,7 +350,7 @@
                     <div class="col-md-6">
                         <div class="title contacts__minititle">Оставьте ваш отзыв</div>
                         <div class="contacts__feed">
-                            <?php echo do_shortcode('[contact-form-7 id="155" title="Форма отзыва"]')?>
+                            <?php echo do_shortcode('[contact-form-7 id="155" title="Форма отзыва"]');?>
                         </div>
                     </div>
                 </div>
